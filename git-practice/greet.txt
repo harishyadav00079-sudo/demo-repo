@@ -3,3 +3,5 @@
 - learning git is awesome
 - but somewhat headache too;
 - this line is added from GitHub
+- this line is from feature branch 2
+
