@@ -1,0 +1,2 @@
+Total sales = 1450
+avg sales = 326.7
